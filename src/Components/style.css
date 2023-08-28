@@ -92,7 +92,7 @@ body {
   background: linear-gradient(
     to bottom,
     rgba(183, 178, 178, 0.7),
-    rgba(156, 159, 153, 0.9)
+    rgba(183, 178, 178, 0.7)
   );
   transition: 0.2s All;
 }
@@ -102,8 +102,8 @@ body {
 .card:hover {
   background: linear-gradient(
     to bottom,
-    rgb(204, 255, 51, 0.7),
-    rgb(204, 255, 51, 0.9)
+    rgba(183, 178, 178, 0.7),
+    rgba(183, 178, 178, 0.7)
   );
 }
 .card .recipe {
